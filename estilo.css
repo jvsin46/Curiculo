@@ -1,0 +1,58 @@
+body{ 
+    background-color:rgb(255, 255, 255); 
+}
+p{
+    color: rgb(0, 0, 0);
+} 
+label {
+    color: rgn(9, 9, 9)
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin-right: 20px;
+}  
+ul {
+    list-style-type: none;
+    margin-bottom: 20px;
+}
+ul img {
+    width: 3%;
+    height: 3%;
+    margin-right: 10px; 
+    vertical-align: middle; 
+}
+hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}   
+section {
+    margin-bottom: 40px;
+}
+
+h2, hr  {
+    color: blue;
+}
+
+table {
+    width: 30%;
+    border-collapse: collapse;
+    background-color: #fff;
+ }
+ 
+ th, td {
+    border: 1px solid #ddd;
+    padding: 12px;
+ }
+ 
+ th {
+    background-color: #0011ff;
+    color: #fff;
+ }
